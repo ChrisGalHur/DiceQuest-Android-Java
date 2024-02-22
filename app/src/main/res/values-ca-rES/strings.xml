@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiceQuest</string>
+    <string name="contrasena">Contrasenya</string>
+    <string name="roll">Llença!!</string>
+    <string name="user">Usuari</string>
+</resources>
