@@ -4,4 +4,5 @@
     <string name="contrasena">Contraseña</string>
     <string name="roll">Lanza!!</string>
     <string name="user">Usuario</string>
+    <string name="register">Quiero registrarme</string>
 </resources>
